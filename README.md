@@ -1,4 +1,4 @@
-# Device tree for Poco X3 Pro devices (codenamed _vayu_ / _bhima_)
+# Device tree for Poco X3 Pro devices (codenamed _vayu_ / _bhima_) (is he acoustic????)
 
 
 ## Device specifications
